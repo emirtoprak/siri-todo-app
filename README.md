@@ -119,45 +119,6 @@ Here are all the available Siri phrases and the corresponding actions:
     Siri Phrase: "Pay bills in Siri Todo App"  
     Action: Adds "Pay bills" to the to-do list.
 
-11. **Feed the pets**  
-    Siri Phrase: "Feed the pets in Siri Todo App"  
-    Action: Adds "Feed the pets" to the to-do list.
-
-12. **Work out**  
-    Siri Phrase: "Work out in Siri Todo App"  
-    Action: Adds "Work out" to the to-do list.
-
-13. **Make the bed**  
-    Siri Phrase: "Make the bed in Siri Todo App"  
-    Action: Adds "Make the bed" to the to-do list.
-
-14. **Check emails**  
-    Siri Phrase: "Check emails in Siri Todo App"  
-    Action: Adds "Check emails" to the to-do list.
-
-15. **Read a book**  
-    Siri Phrase: "Read a book in Siri Todo App"  
-    Action: Adds "Read a book" to the to-do list.
-
-16. **Plan a meeting**  
-    Siri Phrase: "Plan a meeting in Siri Todo App"  
-    Action: Adds "Plan a meeting" to the to-do list.
-
-17. **Write a report**  
-    Siri Phrase: "Write a report in Siri Todo App"  
-    Action: Adds "Write a report" to the to-do list.
-
-18. **Relax**  
-    Siri Phrase: "Relax in Siri Todo App"  
-    Action: Adds "Relax" to the to-do list.
-
-19. **Check weather**  
-    Siri Phrase: "Check weather in Siri Todo App"  
-    Action: Adds "Check weather" to the to-do list.
-
-20. **Send message**  
-    Siri Phrase: "Send message in Siri Todo App"  
-    Action: Adds "Send message" to the to-do list.
 
 ## Code Structure
 
