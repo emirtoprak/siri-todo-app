@@ -37,7 +37,7 @@ Follow the steps below to set up the project on your local machine.
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/yourusername/siri-todo-app.git
+git clone https://github.com/emirtoprak/siri-todo-app.git
 cd siri-todo-app
 ```
 
